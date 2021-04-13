@@ -1,0 +1,16 @@
+header {
+  height: 200px;
+}
+
+.menu-sm {
+  width: 30px;
+}
+
+.main {
+  margin-top: -18px;
+}
+
+.visit-title {
+  color: maroon;
+  border-bottom: 3px solid yellow;
+}
